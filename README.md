@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 :man:: **Pierre** ([pronounciation](https://www.pronouncenames.com/search?name=Pierre) - He/Him)<br />
-:round_pushpin:: Paris, France (:fr:)
+:round_pushpin:: Paris, France (:fr:)<br />
+:white_check_mark:: [www.pierrevillard.com](https://pierrevillard.com/)
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Twitter Follow](https://img.shields.io/twitter/follow/pvillard31.svg?style=social)](https://twitter.com/pvillard31) [![LinkedIn Profile](https://img.shields.io/badge/Pierre%20Villard--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/pierrevillard) [![Personal Blog](https://img.shields.io/badge/Blog--lightgrey?logo=wordpress&style=social)](https://pierrevillard.com/)  [![Medium](https://img.shields.io/badge/My%20posts%20on%20Medium--lightgrey?logo=medium&style=social)](https://medium.com/@pierre.villard)
 
