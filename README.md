@@ -6,7 +6,7 @@
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Twitter Follow](https://img.shields.io/twitter/follow/pvillard31.svg?style=social)](https://twitter.com/pvillard31) [![LinkedIn Profile](https://img.shields.io/badge/Pierre%20Villard--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/pierrevillard) [![Personal Blog](https://img.shields.io/badge/Blog--lightgrey?logo=wordpress&style=social)](https://pierrevillard.com/)  [![Medium](https://img.shields.io/badge/My%20posts%20on%20Medium--lightgrey?logo=medium&style=social)](https://medium.com/@pierre.villard)
 
-Mostly working on [apache/nifi](https://github.com/apache/nifi) and its subprojects, you can find me blogging, tweeting, talking about NiFi in many places. I'm always available to talk about [Apache NiFi](https://nifi.apache.org/) in conferences and meetups worldwide.
+**Mostly working on [apache/nifi](https://github.com/apache/nifi) and its subprojects, you can find me blogging, tweeting, talking about NiFi in many places. I'm always available to talk about [Apache NiFi](https://nifi.apache.org/) in conferences and meetups worldwide.**
 
 <!--
 **pvillard31/pvillard31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
