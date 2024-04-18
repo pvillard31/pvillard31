@@ -11,3 +11,5 @@ kramdown:
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Pierre Villard
+description: All of my NiFi related content in one place
