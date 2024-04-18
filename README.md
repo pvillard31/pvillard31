@@ -2,6 +2,7 @@
 
 - **Pierre** ([pronounciation](https://www.pronouncenames.com/search?name=Pierre) - He/Him)<br />
 - 📍 Paris, France (🇫🇷)<br />
+- My Github profile: https://github.com/pvillard31
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pvillard31.svg?style=social)](https://twitter.com/pvillard31)
 [![LinkedIn Profile](https://img.shields.io/badge/Pierre%20Villard--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/pierrevillard)
