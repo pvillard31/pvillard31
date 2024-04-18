@@ -9,13 +9,19 @@
 [![Twitch](https://img.shields.io/twitch/status/pvillard31?style=social)](https://www.twitch.tv/pvillard31)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
+---------
+
 **I'm mostly working on [apache/nifi](https://github.com/apache/nifi) and its subprojects, you can find me blogging, tweeting, streaming, talking about NiFi in many places. I'm always available to talk about [Apache NiFi](https://nifi.apache.org/) in conferences and meetups worldwide. I'm also hosting frequent live streams about NiFi on Twitch, come say hello!**
 
 # I decided to move away from hosting my website on Wordpress as well as my Medium account. You can find here all of the posts that I posted there over the past years and this is where I'll be posting additional content going forward in addition to my [Youtube channel](https://www.youtube.com/@pvillard31).
 
+---------
+
 ## 2022
 
 - [What’s new in Cloudera Flow Management 2.1.3, based on Apache NiFi 1.15?](2022/2022-02-17-whats-new-in-cloudera-flow-management-2-1-3-based-on-apache-nifi-1-15/index.md)
+
+---------
 
 ## 2019
 
@@ -24,6 +30,8 @@
 - [NiFi with OIDC using Terraform on the Google Cloud Platform](2019/2019-08-21-nifi-with-oidc-using-terraform-on-the-google-cloud-platform/index.md)
 - [Running visual quality inspection at the edge with Google Cloud and Apache NiFi & MiNiFi](2019/2019-10-29-running-visual-quality-inspection-at-the-edge-with-google-cloud-and-apache-nifi-minifi/index.md)
 - [Secured NiFi cluster with Terraform on the Google Cloud Platform](2019/2019-11-22-secured-nifi-cluster-with-terraform-on-the-google-cloud-platform/index.md)
+
+---------
 
 ## 2018
 
@@ -39,6 +47,8 @@
 - [Monitoring Driven Development with NiFi 1.7+](2018/2018-08-29-monitoring-driven-development-with-nifi-1-7/index.md)
 - [NiFi 1.8+ - Revolutionizing the List/Fetch pattern and more...](2018/2018-10-29-nifi-1-8-revolutionizing-the-list-fetch-pattern-and-more/index.md)
 - [Best of NiFi](2018/2018-11-08-best-of-nifi/index.md)
+
+---------
 
 ## 2017
 
@@ -57,6 +67,8 @@
 - [Monitoring NiFi - Scripted Reporting Task](2017/2017-05-17-monitoring-nifi-scripted-reporting-task/index.md)
 - [XML data processing with Apache NiFi](2017/2017-09-07-xml-data-processing-with-apache-nifi/index.md)
 - [Authorizations with LDAP synchronization in Apache NiFi 1.4+](2017/2017-12-22-authorizations-with-ldap-synchronization-in-apache-nifi-1-4/index.md)
+
+---------
 
 ## 2016
 
